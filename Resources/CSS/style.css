@@ -15,3 +15,18 @@ a {
   font-size: 18px;
   color: white;
 }
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.banner1 {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
