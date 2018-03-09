@@ -30,3 +30,11 @@ p {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
 }
+.copy {
+  font-size: 11px;
+  color: white;
+}
+footer {
+    background-color: dimgray;
+    text-align: left;
+}
