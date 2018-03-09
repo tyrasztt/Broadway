@@ -1,10 +1,10 @@
 html {
   font-family: Helvetica;
   text-align: center;
-  background-color: black;
+
 }
 nav {
-  background-image: image("../the-flatiron-building");
+  background-image: url("../images/the-flatiron-building.png");
 }
 h1 {
   font-size: 70px;
